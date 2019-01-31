@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport"
+	content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<meta name="theme-color" content="#000000">
+<link rel="manifest" href="/manifest.json">
+<link rel="shortcut icon" href="/favicon.ico">
+<title>React App</title>
+<link href="/static/css/main.b41d31a5.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+function downloadFile(){
+	var batchValue = document.getElementById('batchId').value;
+	var titleValue = document.getElementById('titleId').value;
+	var typeValue = document.getElementById('typeA').value;
+	var path = document.getElementById("downloadAccessCodeCSVButtonId").value;
+	var dynamicURL = location.protocol+"//"+location.hostname+":"+location.port;
+	dynamicURL = dynamicURL + getContextPath()+path;
+	var request = new XMLHttpRequest();
+    request.open('POST', dynamicURL, true);
+    request.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+    request.responseType = 'blob';
+    request.onload = function (e) {
+        var blob = request.response;
+       var fileName = request.getResponseHeader("Content-Disposition").toString().substring(20);
+       saveBlob(blob, fileName);
+    }
+    var obj = { batch:batchValue, title:titleValue, type:typeValue };
+    var myJson = JSON.stringify(obj);
+    request.send(myJson);
+}
+
+
+function downloadVoucherFile(){
+	var batchValue = document.getElementById('batchIdV').value;
+	var titleValue = document.getElementById('priceV').value;
+	
+	var path = document.getElementById("downloadVoucherCSVButtonId").value;
+	var dynamicURL = location.protocol+"//"+location.hostname+":"+location.port;
+	dynamicURL = dynamicURL + getContextPath()+path;
+	var request = new XMLHttpRequest();
+    request.open('POST', dynamicURL, true);
+    request.setRequestHeader('Content-Type', 'application/json');
+    request.responseType = 'blob';
+    request.onload = function (e) {
+        var blob = request.response;
+       var fileName = request.getResponseHeader("Content-Disposition").toString().substring(20);
+       saveBlob(blob, fileName);
+    }
+    var obj = { batch:batchValue, title:titleValue };
+    var myJson = JSON.stringify(obj);
+    request.send(myJson);
+}
+  function saveBlob(blob, fileName) {
+	    var a = document.createElement("a");
+	    a.href = window.URL.createObjectURL(blob);
+	    a.download = fileName;
+	    a.click();
+	}
+  
+  function getContextPath() {
+	   return window.location.pathname.substring(0, window.location.pathname.indexOf("/",2));
+	}
+</script>
+</head>
+<body>
+	<div id="root"></div>
+<!-- 	<form action="https://pp2-dev-web01.nonprod.pearsoncms.net/backend/graphql/downloadAccessCodeCSV" method="POST"> -->
+<!-- 	<form action="http://localhost/backend/graphql/downloadAccessCodeCSV" method="POST"> -->
+	<form>
+	
+  		Batch   <input id="batchId" type="text" name="batch" value="1"><br>
+  		Title   <input id="titleId" type="text"   name="title" ><br>
+  		Type   <input id="typeA" type="text"   name="typeA" ><br>
+<!--   		<button>Click to download Access Codes CSV</button> -->
+  		<button id="downloadAccessCodeCSVButtonId" type="button" value="/graphql/downloadAccessCodeCSV" onclick="downloadFile()">Click to download Access Codes CSV</button>
+  		
+	</form>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<!-- <form action="https://pp2-dev-web01.nonprod.pearsoncms.net/backend/graphql/downloadVoucherCodeCSV" method="POST"> -->
+	<!-- <form action="http://localhost/backend/graphql/downloadVoucherCodeCSV" method="POST"> -->
+	<form > 
+  		Batch   <input id="batchIdV" type="text" name="batch" value="1"><br>
+  		Title   <input  id="priceV" type="text"   name="price" ><br>
+  		<!-- <button>Click to download Voucher Codes CSV</button> -->
+  		<button id="downloadVoucherCSVButtonId" type="button" value="/graphql/downloadVoucherCodeCSV" onclick="downloadVoucherFile()">Click to download Voucher CSV</button>
+	</form>
+</body>
+
+</html>

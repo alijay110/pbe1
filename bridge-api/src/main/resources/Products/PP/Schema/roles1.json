@@ -1,0 +1,169 @@
+{
+	"QueryToOperation": 
+	{
+		"Mutation": 
+		{
+			"addUser": "AddUsersIndividually",
+			"updateUser": "EditUsersIndividually",
+			"updateUserSchoolBySchoolId":"EditUsersIndividually",
+			"updateMultipleUsersStatusById":"DeactivateUsersIndividually",
+			"updateViewerPassByUserId":"TriggerUserResetPassword",
+			"updateViewerEmailByUserId":"EditUsersIndividually",
+			"updateViewerFullNameByUserId":"EditUsersIndividually",
+			"updateTeachersPortalPreferences":"EditUsersIndividually",
+			"addUserDetailsViaSignupDuplicate": "defaultOperation",
+			
+			"addSchool": "AddSchool",
+			"updateSchool": "EditSchool",
+			"deactivateSchool": "DeactivateSchool",
+			
+			"addLicence":"AddManageLicensestoLicenceHolder",
+			"addLicenceHistory":"AddManageLicensestoLicenceHolder",
+			"updateLicence":"AddManageLicensestoLicenceHolder",
+			"addLicenceHolder":"AddManageLicensestoLicenceHolder",
+			"updateLicenceHolder":"AddManageLicensestoLicenceHolder",
+			"updateLicenceHolderByOrganisationId":"AddManageLicensestoLicenceHolder",
+			"updateLicenceHolderBySchoolId":"AddManageLicensestoLicenceHolder",
+			"addLicenceHolderHistory":"AddManageLicensestoLicenceHolder",
+			"updateLicenceHolderHistory":"AddManageLicensestoLicenceHolder",
+			"deleteLicence":"AddManageLicensestoLicenceHolder",
+			
+			"allocateLicenceToUser":"AllocateDeallocateEndUserStudentTeacherLicenses",
+			"allocateLicenceToLicenceHolderForSchool":"AllocateDeallocateEndUserStudentTeacherLicenses",
+			"allocateLicenceToLicenceHolderForOrganisation":"AllocateDeallocateEndUserStudentTeacherLicenses",
+						
+			"addClassroom": "AddClasses",
+			"removeClassroom": "DeleteClasses",
+			"updateClassroom": "EditClassesincludingaddingusersandproducts",
+			
+			"generateAccessCode":"GenerateAccessCodesandVoucherCodes",
+			"updateAccessCode":"VoidAccessCode",
+			"generateMultipleAccessCodes":"GenerateAccessCodesandVoucherCodes",
+			"generateLargeNumberOfAccessCodes":"GenerateAccessCodesandVoucherCodes",
+			"generateAccessCodeSubscription":"RedeemAccessCodes",
+			"updateAccessCodeHistory":"VoidAccessCode",
+			
+			"generateVoucherCode":"GenerateAccessCodesandVoucherCodes",
+			"updateVoucherCode":"VoidAccessCode",
+			"generateMultipleVoucherCodes":"GenerateAccessCodesandVoucherCodes",
+			"generateLargeNumberOfVoucherCodes":"GenerateAccessCodesandVoucherCodes",
+			"generateVoucherCodeSubscription":"RedeemAccessCodes",
+			"updateVoucherCodeHistory":"VoidAccessCode",
+			
+			"addProduct": "AddProductDetails",
+			"removeProduct": "DeactivateProduct",
+			"updateProduct": "EditProductDetails",
+			
+			"createAppNotification":"AddProductUpdates",
+			
+			"addPanel": "panelOperations",
+			"removePanel": "panelOperations",
+			"updatePanel": "panelOperations",
+		
+			
+			"userUploadDuplicate": "defaultOperation",
+			
+			"logout":"defaultOperation",
+			
+			"createOrganisation": "addUpdateOrganisation",
+			"updateOrganisation":"addUpdateOrganisation",
+			
+			"createResource":"addUpdateResources",
+			"updateResource":"addUpdateResources",
+			
+			"addBulkUploadUserJob":"AddUsersinBulk"
+		},
+
+		"Query": 
+		{
+			"IntrospectionQuery":"guestOperations",
+			"__schema":"guestOperations",
+			"getUserByUserId":"guestOperations",
+			"addUserDetailsViaSignup":"guestOperations",
+			"addViewerDetailsViaSignup":"guestOperations",
+			"UserLoginUsername":"guestOperations",
+			"isSchoolSSO":"guestOperations",
+			"getOperationMap":"guestOperations",
+			"getRoleDetails":"guestOperations",
+			"getGuestOperations":"guestOperations",
+
+			"getUser": "ViewUsers",
+			"User": "ViewUsers",
+			"getUserByUserIdduplicate": "ViewUsers",
+			"UserLoginEmail": "ViewUsers",
+			"checkUsernameUniqueness":"ViewUsers",
+			"getPaginatedUserTableData":"ViewUsers",
+			"getPaginatedUserByFiltersSortVariableAscending":"ViewUsers",
+			"getPaginatedUserByFiltersSortVariableDescending":"ViewUsers",
+			"getViewerProductsByUserId":"ViewUsers",
+			"getViewerDataByUserIdduplicate":"ViewUsers",
+			"getViewerDataByUserId":"ViewUsers",
+			"getViewerRoleById":"ViewUsers",
+			
+			"School": "ViewSchoolsDetails",
+			"Schools": "ViewSchoolsDetails",
+			"SchoolsByUserId": "ViewSchoolsDetails",
+			"isSchoolSSOduplicate":"ViewSchoolsDetails",
+			"getSchoolIdByTeacherCode":"ViewSchoolsDetails",
+			"getSchoolIdByStudentCode":"ViewSchoolsDetails",
+			"getUserSchoolByUserId":"ViewSchoolsDetails",
+			"getSchoolDataBySchoolId":"ViewSchoolsDetails",
+			"getSchoolIdByStudentCodeduplicate":"ViewSchoolsDetails",
+			"getSchoolIdByTeacherCodeduplicate":"ViewSchoolsDetails",
+			"getPaginatedSchoolTableData":"ViewSchoolsDetails",
+			"getAllSchoolsIdAndNameByString":"ViewSchoolsDetails",
+			"getAllSelectedSchoolsIdAndNameByString":"ViewSchoolsDetails",
+			"SchoolIdByCode":"ViewSchoolsDetails",
+			"getPaginatedOrganisationTableData":"ViewSchoolsDetails",
+			"getMultipleOrganisationByIds":"ViewSchoolsDetails",
+			
+			"getPaginatedLicenceHistoryTableData":"viewLicenceLicenceHolderAndHistory",
+			"getPaginatedLicenceTableData":"viewLicenceLicenceHolderAndHistory",
+			"getLicence":"viewLicenceLicenceHolderAndHistory",
+			"getPaginatedHolderLicenceTableData":"viewLicenceLicenceHolderAndHistory",
+			"getLicenceHolder":"viewLicenceLicenceHolderAndHistory",
+			"getLicenceHolderHistory":"viewLicenceLicenceHolderAndHistory",
+			"getPaginatedLicenceHolderHistoryTableData":"viewLicenceLicenceHolderAndHistory",
+			
+			"Classroom": "viewClassRoom",
+			"Classrooms": "viewClassRoom",
+			"ClassroomsByProductId": "viewClassRoom",
+			"getClassroomById":"viewClassRoom",
+			"getClassroomByCode":"viewClassRoom",
+			"getMultipleClassroomsById":"viewClassRoom",
+			"getClassroomByIdandProdId":"viewClassRoom",
+			"getPaginatedClassroomTableData":"viewClassRoom",
+
+			"getProductsByAccessCode":"VerifyAccessCodeStatus",
+			"getAccessCode":"VerifyAccessCodeStatus",
+			"getPaginatedAccessCodeTableData":"VerifyAccessCodeStatus",
+			"getPaginatedAccessCodeHistory":"VerifyAccessCodesDetailsHistory",
+			"getAccessCodeSubscription":"VerifyAccessCodeStatus",
+			
+			"getVoucherCode":"VerifyAccessCodeStatus",
+			"getPaginatedVoucherCodeTableData":"VerifyAccessCodeStatus",
+			"getPaginatedVoucherCodeHistory":"VerifyAccessCodesDetails&History",
+			
+			"Product": "viewProducts",
+			"Products": "viewProducts",
+			"getAllProducts":"viewProducts",
+			"getProduct":"viewProducts",
+			"getMultipleProducts":"viewProducts",
+			"getPaginatedProductTableData":"viewProducts",
+			"getMultipleProductsById":"viewProducts",
+			"getProductById":"viewProducts",
+			
+			"getAppNotifications":"viewNotifications",
+			
+		    "Panel":"panelOperations",
+			"pageablePanels":"panelOperations",
+			"Panels": "panelOperations",
+		
+			"getPaginatedResourceTableData":"viewResources",
+			"getResourceDataByResourceId":"viewResources",
+			
+			"getbulkUploadJobDetails":"readBulkUploadJobDetails",
+			"getPaginatedBulkUploadJobTable":"readBulkUploadJobDetails"
+		}
+	}
+}

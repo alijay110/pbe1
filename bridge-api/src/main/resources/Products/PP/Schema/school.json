@@ -1,0 +1,68 @@
+{
+	"type": "object",
+	"additionalProperties": true,
+	"properties": {
+		"schoolData": {
+			"type": "object",
+			"additionalProperties": true,
+			"properties": {
+				"name": {
+					"type": "string"
+				},
+				"address": {
+					"type": "string"
+				},
+				"city": {
+					"type": "string"
+				},
+				"state": {
+					"type": "string"
+				},
+				"pin": {
+					"type": "string"
+				},
+				"country": {
+					"type": "string"
+				},
+				"email": {
+					"type": "string"
+				},
+				"phone": {
+					"type": "string"
+				}
+			},
+			"required": [
+				"name"
+			]
+		},
+		"userData": {
+			"type": "array",
+			"additionalItems": true,
+			"items": {
+				"type": "object",
+				"additionalProperties": true,
+				"properties": {
+					"role": {
+						"type": "string"
+					},
+					"fullName": {
+						"type": "string"
+					},
+					"mobile": {
+						"type": "string"
+					},
+					"landline": {
+						"type": "string"
+					},
+					"email": {
+						"type": "string"
+					}
+				},
+				"required": [
+					"fullName",
+					"email"
+				]
+			}
+		}
+	}
+}

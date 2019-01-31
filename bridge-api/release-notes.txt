@@ -1,0 +1,165 @@
+Release Notes - Version 1.0
+
+SAM - PP 2.0 Backend Component
+
+1.	Introduction	
+
+    SAM PP 2.0 Backend exposes service apis as GraphQl Mutations and Queries and interacts with the external systems to perform transactions and 
+    also maintains its own database to save the data which is not sent to SAM core services.
+
+2.	About This Release	
+
+    This release contains first set of queries and mutations for User, Classroom, School and Product along with Session management,Authentication and Authorization.
+    Pagination,sorting and filtering features on all the below queries are implemented.
+    
+    Users can be registered as Student or Teacher roles through Signup functionality. 
+
+3.	Compatible Products	
+
+4.	Upgrades	
+
+5.	New Features	
+
+  New  Mutations and Queries
+  
+  i. School
+  
+    a. addSchool(data: SchoolInput): School (Mutation)
+    b. updateUserSchoolBySchoolId(userData: UserInput): User (Mutation)
+    c. updateStudentsPortalPreferences(userData: UserInput): User (Mutation)
+    d. removeSchool(schoolId: String): School (Mutation)
+    e. updateSchool(data: SchoolInputschoolId: String): School (Mutation)
+    f. getSchoolDataBySchoolId(schoolId: String): School(Query)
+    g. Schools: [School](Query)
+    h. SchoolsByUserId:[School](Query)
+    i. SchoolIdByCode(schoolCode: String): School(Query)
+    j. getSchoolIdByTeacherCode(teacherCode: String): School(Query)
+    k. getSchoolIdByStudentCode(studentCode: String): School(Query)
+    l. getViewerProductsByUserId(userId: String): User (Query)
+    m. School(schoolId: String): School (Query)
+    n. getAllSchoolsIdAndNameByString(
+		filter: SchoolInput = {}
+		filterPattern: StringMatcherInput = STARTING
+		offset: Int = 0
+		limit: Int = 15
+		sort: SortInput = {field: "schoolId", order: ASC}
+		): Page_School (Query)
+	o. getAllSelectedSchoolsIdAndNameByString(
+		arrayOfSchoolIds: [String] = []
+		offset: Int = 0
+		name: String = ""
+		limit: Int = 15
+		sort: SortInput = {field: "schoolId", order: ASC}
+		): Page_School (Query)
+	p. getPaginatedSchoolTableData(
+		filter: SchoolInput = {}
+		filterPattern: StringMatcherInput = EXACT
+		offset: Int = 0
+		limit: Int = 15
+		sort: SortInput = {field: "schoolId", order: ASC}
+		): Page_School (Query)
+	q. isSchoolSSO(email: String): User (Query)
+    
+  ii. Product
+  
+    a. addProduct(data: ProductInput): Product (Mutation)
+    b. updateProduct(data: ProductInputproductId: String): Product (Mutation)
+    c. removeProduct(productId: String): Product (Mutation)
+    d. Product(productId: String): Product (Query)
+    e. Products: [Product](Query)
+    f. getAllProducts: [Product](Query)
+    g. getMultipleProducts(products: [String]): [Product](Query)
+    h. getProduct(productId: String): Product(Query)
+    i. getPaginatedProductTableData(
+		filter: ProductInput = {}
+		offset: Int = 0
+		limit: Int = 15
+		sort: SortInput = {field: "productId", order: ASC}
+		): Page_Product (Query)
+   
+ iii. ClassRoom
+ 
+    a. addCourse(data: ClassroomInput): Classroom (Mutation)
+    b. updateCourse(classRoomId: Stringdata: ClassroomInput): Classroom (Mutation)
+    c. removeCourse(classRoomId: String): Classroom (Mutation)
+    d. Course(classRoomId: String): Classroom (Query)
+    e. Courses: [Classroom](Query)
+    f. CoursesByProductId(productId: String): [Classroom](Query)
+    g. getClassroomById(classRoomId: String): Classroom (Query)
+    h. getClassroomByCode(code: String): Classroom (Query)
+    i. getMultipleClassroomsById(classroomIds: [String]): [Classroom](Query)
+    
+  iv. User
+  
+    a. User(userId: String): User (Query)
+    b. getPaginatedUserTableData(
+		filter: UserInput = {}
+		offset: Int = 0
+		limit: Int = 15
+		sort: SortInput = {field: "uid", order: ASC}
+		): Page_User (Query)
+    c. getPaginatedUserByFiltersSortVariableAscending(
+		filter: UserInput = {}
+		offset: Int = 0
+		limit: Int = 15
+		sort: SortInput = {field: "uid", order: ASC}
+		): Page_User (Query)
+    d. getPaginatedUserByFiltersSortVariableDescending(
+		filter: UserInput = {}
+		offset: Int = 0
+		limit: Int = 15
+		sort: SortInput = {field: "uid", order: DESC}
+		): Page_User (Query)
+    e. UserLoginUsername(passwd: StringuserName: String): User (Query)
+    f. UserLoginEmail(passwd: Stringemail: String): User (Query)
+    g. addUserDetailsViaSignup(data: UserInput): User (Mutation)
+    h. addUser(data: UserInput): User (Mutation)
+    i. updateUser(data: UserInputId: String): User (Mutation)
+    j. userUpload(data: [UserInput]): [BulkUserOutput] (Mutation)
+    k. checkUsernameUniqueness(userName: String): Boolean (Query)
+    l. getUser(userName: String): User (Query)
+    m. getUserByUserId(uid: String): User (Query)
+    n. getUserSchoolByUserId(uid: String): User (Query)
+    o. updateUserSchoolBySchoolId(userData: UserInput): User (Mutation)
+    p. updateTeachersPortalPreferences(data: UserInputId: String): User(Mutation)
+    q. updateStudentsPortalPreferences(userData: UserInput): User (Mutation)
+    r. getViewerRoleById(userId: String): User (Query)
+    s. getViewerDataByUserId(userId: String): User (Query)
+    t. updateViewerEmailByUserId(data: UserInput): User (Mutation)
+    u. updateViewerPassByUserId(data: UserInput): User (Mutation)
+    v. updateViewerFullNameByUserId(data: UserInput): User (Mutation)
+    w. addViewerDetailsViaSignup(data: UserInput): User (Mutation)
+ 
+ iv. Panels
+    a. Panel(panelId: String): Panel (Query)
+    b. pageablePanels(
+		filter: PanelInput = {}
+		filterPattern: StringMatcherInput = EXACT
+		offset: Int = 0
+		limit: Int = 15
+		sort: SortInput = {field: "panelId", order: ASC}
+		): Page_Panel (Query)
+	c. Panels: [Panel] (Query)
+	d. removePanel(panelId: String): Panel (Mutation)
+	e. updatePanel(panelId: Stringdata: PanelInput): Panel (Mutation)
+	f. addPanel(data: PanelInput): Panel (Mutation)
+
+ v. Licence
+   a. addLicence(data: LicenceInput): Licence (Mutation)
+   b. addLicenceHistory(data: LicenceHistoryInput): LicenceHistory(Mutation)
+   c. getPaginatedLicenceTableData(
+		filter: LicenceInput = {}
+		offset: Int = 0
+		limit: Int = 15
+		sort: SortInput = {field: "uid", order: ASC}
+		): Page_Licence (Query)
+   d. getPaginatedLicenceHistoryTableData(
+		filter: LicenceHistoryInput = {}
+		offset: Int = 0
+		limit: Int = 15
+		sort: SortInput = {field: "uid", order: ASC}
+		): Page_LicenceHistory (Query)
+
+6.	Known Bugs and Limitations	
+
+6.1	General Note	

@@ -1,0 +1,510 @@
+{
+	"createUser": [
+		{
+			"operation": "shift",
+			"spec": {
+				"userName": "userName",
+				"passwd": "userPassword",
+				"fullName": "userFullName",
+				"email": "emailAddress",
+				"uid": "idamId",
+				"status": "userStatus",
+				"countryCode": "countryCode",
+				"pearsonCreatedBy": "pearsonCreatedBy"
+			}
+		}
+	],
+	"createSchool": [
+		{
+			"operation": "shift",
+			"spec": {
+				"schoolId": "orgIdentifier",
+				"name": "orgName",
+				"schoolType": "orgType",
+				"schoolURL": "orgURL",
+				"schoolStatus": "orgStatus",
+				"activeTimestamp": "activeTimestamp",
+				"productModelIdentifier": "productModelIdentifier",
+				"createdOn": "createdOn",
+				"createdBy": "createdBy"
+			}
+		}
+	],
+		"createOrg": [
+		{
+			"operation": "shift",
+			"spec": {
+				"organisationId": "orgIdentifier",
+				"name": "orgName",
+				"schoolStatus": "orgStatus",
+				"activeTimestamp": "activeTimestamp",
+				"productModelIdentifier": "productModelIdentifier",
+				"createdOn": "createdOn",
+				"createdBy": "createdBy"
+			}
+		}
+	],
+	
+	"deactivateSchool": [
+		{
+			"operation": "shift",
+			"spec": {
+				"inactiveTimestamp": "inactiveTimestamp",
+				"updatedOn": "updatedOn",
+				"updatedBy": "updatedBy"
+			}
+		}
+	],
+	"updateSchool": [
+		{
+			"operation": "shift",
+			"spec": {
+				"schoolId": "orgIdentifier",
+				"name": "orgName",
+				"schoolType": "orgType",
+				"schoolURL": "orgURL",
+				"schoolStatus": "orgStatus",
+				"activeTimestamp": "activeTimestamp",
+				"productModelIdentifier": "productModelIdentifier",
+				"updatedOn": "updatedOn",
+				"updatedBy": "updatedBy"
+			}
+		}
+	],
+	
+	"updateOrg": [
+		{
+			"operation": "shift",
+			"spec": {
+				"organisationId": "orgIdentifier",
+				"name": "orgName",
+				"activeTimestamp": "activeTimestamp",
+				"productModelIdentifier": "productModelIdentifier",
+				"updatedOn": "updatedOn",
+				"updatedBy": "updatedBy"
+			}
+		}
+	],
+	"userQuery": [
+		{
+			"operation": "shift",
+			"spec": {
+				"userName": "userName",
+				"passwd": "password",
+				"preferredName": "givenName",
+				"userFullName": "fullName",
+				"email": "email",
+				"uid": "uid",
+				"userStatus": "status",
+				"countryCode": "countryCode"
+			}
+		}
+	],
+	"MongoUser": [
+		{
+			"operation": "shift",
+			"spec": {
+				
+			}
+		}
+	],
+	"UserDetails": [
+		{
+			"operation": "shift",
+			"spec": {
+				"idamId": "uid",
+				"userName": "userName",
+				"password": "passwd",
+				"givenName": "fullName",
+				"roles": "roles",
+				"errorText": "",
+				"userAdded": "",
+				"emailDetails": {
+					"*": {
+						"@.email": "email"
+					}
+				}
+			}
+		}
+	],
+	"UserResponse": [
+		{
+			"operation": "shift",
+			"spec": {
+				"uid": {
+					"*": {
+						"@": "uid"
+					}
+				},
+				"sn": {
+					"*": {
+						"@": "userName"
+					}
+				},
+				"cn": {
+					"*": {
+						"@": "fullName"
+					}
+				},
+				"errorText": "",
+				"userAdded": "",
+				"mail": {
+					"*": {
+						"@": "email"
+					}
+				}
+			}
+		}
+	],
+	"SchoolResponse": [
+		{
+			"operation": "shift",
+			"spec": {
+				"orgIdentifier": "schoolId"
+			}
+		}
+	],
+	"SchoolGetResponse": [
+		{
+			"operation": "shift",
+			"spec": {
+				"orgIdentifier": "schoolId",
+				"orgName": "name",
+				"orgType": "schoolType",
+				"orgURL": "schoolURL",
+				"orgStatus": "schoolStatus",
+				"productModelIdentifier": "productModelIdentifier",
+				"createdOn": "createdOn",
+				"createdBy": "createdBy",
+				"updatedOn": "updatedOn",
+				"updatedBy": "updatedBy"
+			}
+		}
+	],
+	
+	"OrgGetResponse": [
+		{
+			"operation": "shift",
+			"spec": {
+				"orgIdentifier": "organisationId",
+				"orgName": "name",
+				"productModelIdentifier": "productModelIdentifier",
+				"createdOn": "createdOn",
+				"createdBy": "createdBy",
+				"updatedOn": "updatedOn",
+				"updatedBy": "updatedBy"
+			}
+		}
+	],
+	"forgotPassword": [
+		{
+			"operation": "shift",
+			"spec": {
+				"userName": "userName",
+				"password": "password"
+			}
+		}
+	],
+	"ProductResponse": [
+	     {
+	       "operation": "shift",
+	       "spec": {
+	         "*": {
+	           "*": {
+	             "productIdentifier": "productId",
+	             "ISBN": "isbn",
+	             "activeTimestamp": "activeTimestamp",
+	             "createdOn": "createdOn",
+               "createdBy":"createdBy",
+                "productName":"productName",
+               "productModel":"productModel",
+               "courseUrl":"courseUrl",
+               "inactiveTimestamp":"inactiveTimestamp",
+               "isPartOf":"isPartOf",
+               "productType":"productType",
+               "programs":"programs",
+               "publishedOn":"publishedOn",
+               "subjects":"subjects",
+               "thumbnailUrl":"thumbnailUrl",
+               "updatedBy":"updatedBy",
+               "updatedOn":"updatedOn",
+	             "courseList": {
+	               "*": {
+	                 "courseId": "resourceCourseIds"
+	               }
+	             }
+	           }
+	         }
+	       }
+		}
+
+	],
+	"MultipleProductsResponse": [
+		{
+			"operation": "shift",
+			"spec": {
+					"productIdentifier": "productId",
+					"ISBN": "isbn",
+					"activeTimestamp": "activeTimestamp",
+					"createdOn": "createdOn",
+					"createdBy": "createdBy",
+					"productName": "productName",
+					"productModel": "productModel",
+					"courseUrl": "courseUrl",
+					"inactiveTimestamp": "inactiveTimestamp",
+					"isPartOf": "isPartOf",
+					"productType": "productType",
+					"programs": "programs",
+					"publishedOn": "publishedOn",
+					"subjects": "subjects",
+					"thumbnailUrl": "thumbnailUrl",
+					"updatedBy": "updatedBy",
+					"updatedOn": "updatedOn",
+					"courseList": {
+						"*": {
+						"courseId": "resourceCourseIds"
+						}
+					}
+				}
+			}
+		],
+	"consent": [
+		{
+			"operation": "shift",
+			"spec": {
+				"userName": "idamUserId",
+				"policyUrl": "policyUrl",
+				"fullName": "identifier"
+			}
+		}
+	],
+	"RolesToOperations": [
+		{
+			"operation": "shift",
+			"spec": {
+				"RolesToOperations": {
+					"*": {
+						"*": {
+							"$1": "@(0)[]"
+						}
+					}
+				}
+			}
+		}
+	],
+	"OperationsToQuery": [
+		{
+			"operation": "shift",
+			"spec": {
+				"*": {
+					"*": {
+						"*": {
+							"$0": "@(0)[]"
+						}
+					}
+				}
+			}
+		}
+	],
+	"IgnoreFirstLevel": [
+		{
+			"operation": "shift",
+			"spec": {
+				"*": {
+					"*": "&"
+				}
+			}
+		}
+	],
+	"IgnoreTwoLevels": [
+		{
+			"operation": "shift",
+			"spec": {
+				"*": {
+					"*": "&"
+				}
+			}
+		}
+	],
+	"Permissions": [
+		{
+			"operation": "shift",
+			"spec": {
+				"status": {
+					"true": {
+						"@(3,roles)": {
+							"*": {
+								"permissions": {
+									"*": {
+										"permissionName": "[]"
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	],
+	"access_code_creation": [
+		{
+			"operation": "shift",
+			"spec": {
+				"@(dateCreated)": "createdOn",
+				"createdBy": "createdBy",
+				"lastActivatedDate": "updatedOn",
+				"lastActivatedBy": "updatedBy",
+				"dateCreated": "createdDate",
+				"scope": "scope",
+				"quantity":"quantity",
+				"userName":"userName",
+				"subscriptionDate":"subscriptionDate"
+			}
+		}
+	],
+	"subscription_creation": [
+		{
+			"operation": "shift",
+			"spec": {
+			    "accessCode":"accessCode",
+			    "lastActivatedDate": "createdOn",
+			    "createdOn":"createdOn",
+				"createdBy": "createdBy",
+				"scope": "scope",
+				"lastActivatedBy":"userName",
+				"subscriptionDate":"subscriptionDate",
+				"userName":"userName"
+			}
+		}
+	],
+	"licence_creation": [
+		{
+			"operation": "shift",
+			"spec": {
+				"@(dateCreated)": "createdOn",
+				"createdBy": "createdBy",
+				"updatedOn": "updatedOn",
+				"updatedBy": "updatedBy",
+				"dateCreated": "createdDate",
+				"scope": "scope"
+			}
+		}
+	],
+	"voucher_creation": [
+		{
+			"operation": "shift",
+			"spec": {
+				"@(dateCreated)": "createdOn",
+				"createdBy": "createdBy",
+				"updatedOn": "updatedOn",
+				"updatedBy": "updatedBy",
+				"dateCreated": "createdDate",
+				"scope": "scope"
+			}
+		}
+	],
+	"get_voucher": [
+		{
+			"operation": "shift",
+			"spec": {
+				"createdBy": "createdBy",
+				"createdDate": "dateCreated",
+				"accessCode": "voucherCode",
+				"updatedOn": "updatedOn",
+				"updatedBy": "updatedBy"
+			}
+		}
+	],
+	"get_access_code": [
+		{
+			"operation": "shift",
+			"spec": {
+				"createdBy": "createdBy",
+				"createdDate": "dateCreated",
+				"accessCode": "accessCode",
+				"batchIdentifier":"batch",
+				"scope": {
+					"products": {
+						"*": {
+							"productIdentifier": "products.[]"
+						}
+					}
+				}
+			}
+		}
+	],
+	"get_user_subscribed_access_codes": [
+  {
+    "operation": "shift",
+    "spec": {
+      "subscriptionList": {
+        "*": {
+          "scope": {
+            "products": {
+              "*": {
+                "productIdentifier": "[]"
+              }
+            }
+          }
+        }
+      }
+    }
+		}
+	],
+	
+	"access_code_updation": [
+		{
+			"operation": "shift",
+			"spec": {
+				"updatedOn": "updatedOn",
+				"updatedBy": "updatedBy",
+				"scope": "scope"
+			}
+		}
+	],
+	"update_product_details": [
+		{
+			"operation": "shift",
+			"spec": {
+				"courseUrl": "courseUrl",
+				"isPartOf": "isPartOf",
+				"productName": "productName",
+				"productType": "productType",
+				"publishedOn": "publishedOn",
+				"subjects": "subjects",
+				"thumbnailUrl": "thumbnailUrl",
+				"updatedOn": "updatedOn",
+				"updatedBy": "updatedBy",
+				"programs": "programs",
+				"resourceCourseIds":"resourceCourseIds",
+				"productCode":"productCode"
+			}
+		}
+	],
+	"Resource_Convertion": [
+		{
+			"operation": "shift",
+			"spec": {
+				"assetResponse": {
+					"*": {
+						"@.name": "module.[&1].heading",
+						"@.contentTypeValue": "module.[&1].type",
+						"@.topic.name": "module.[&1].chapter.[0].name",
+						"@.topic.subtopic.name": "module.[&1].chapter[0].chapterResource.[0].title"
+					}
+				}
+			}
+		}
+	],
+	"BulkCreateUser": [
+		{
+			"operation": "shift",
+			"spec": {
+				"fullname": "fullName",
+				"password": "passwd",
+				"email": "email",
+				"yearlevel": "year"
+			}
+		}
+	]
+}

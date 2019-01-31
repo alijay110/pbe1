@@ -1,0 +1,72 @@
+<Request xmlns=\"urn:oasis:names:tc:xacml:3.0:core:schema:wd-17\" CombinedDecision=\"false\" ReturnPolicyIdList=\"true\">
+
+    <Attributes Category=\"urn:oasis:names:tc:xacml:3.0:attribute-category:action\">
+        <Attribute AttributeId=\"urn:oasis:names:tc:xacml:1.0:action:action-id\" IncludeInResult=\"false\">
+            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">redeem_access_code</AttributeValue>
+        </Attribute>
+    </Attributes>
+      <Attributes Category=\"urn:oasis:names:tc:xacml:1.0:subject-category:access-subject\">
+            <Attribute AttributeId=\"http://www.pearson.com/attributes/role\" IncludeInResult=\"false\">
+                <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">student</AttributeValue>
+            </Attribute>
+        </Attributes>
+  <Attributes Category=\"urn:oasis:names:tc:xacml:3.0:group\">
+        <Attribute AttributeId=\"http://www.pearson.com/attributes/role\" IncludeInResult=\"false\">
+            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">student</AttributeValue>
+            </Attribute>
+            
+               <Attribute AttributeId=\"http://www.pearson.com/attributes/codetype\" IncludeInResult=\"false\">
+            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">Single-use Code</AttributeValue>
+            </Attribute>
+            
+              <Attribute AttributeId=\"http://www.pearson.com/attributes/typeofaccesscode\" IncludeInResult=\"false\">
+                         <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">Individual and Bundle</AttributeValue>
+             </Attribute>
+    </Attributes>
+ 
+  <Attributes Category=\"http://www.pearson.com/category\">
+            
+                    
+                    <Attribute AttributeId=\"http://www.pearson.com/attributes/iscodeindatabase\" IncludeInResult=\"false\">
+                            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">yes</AttributeValue>
+                    </Attribute>
+                    
+               
+                            
+                            
+                            <Attribute AttributeId=\"http://www.pearson.com/attributes/isvoided\" IncludeInResult=\"false\">
+                            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">no</AttributeValue>
+                    </Attribute>
+                    
+                            <Attribute AttributeId=\"http://www.pearson.com/attributes/userprofilependingstatus\" IncludeInResult=\"false\">
+                            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">no</AttributeValue>
+                    </Attribute>
+                    
+                             <Attribute AttributeId=\"http://www.pearson.com/attributes/numberofactivations\" IncludeInResult=\"false\">
+                            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#integer\">0</AttributeValue>
+                    </Attribute>
+                    
+
+                            <Attribute AttributeId=\"http://www.pearson.com/attributes/lastactivatedtime\" IncludeInResult=\"false\">
+                            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#integer\">6</AttributeValue>
+                    </Attribute>
+            
+                            <Attribute AttributeId=\"http://www.pearson.com/attributes/alreadyexpired\" IncludeInResult=\"false\">
+                            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">no</AttributeValue>
+                    </Attribute>
+
+                        <Attribute AttributeId=\"http://www.pearson.com/attributes/activatedlasttimebycurrentloggedinuser\" IncludeInResult=\"false\">
+                            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">no</AttributeValue>
+                    </Attribute>
+
+
+                        <Attribute AttributeId=\"http://www.pearson.com/attributes/processstatus\" IncludeInResult=\"false\">
+                            <AttributeValue DataType=\"http://www.w3.org/2001/XMLSchema#string\">Valid</AttributeValue>
+                    </Attribute>
+
+                    
+  </Attributes>
+  
+</Request>
+ 
+   

@@ -1,0 +1,266 @@
+schema
+{
+query:Query
+mutation: Mutation
+}
+
+
+type Query 
+	{
+		Users(userName:String):[User]
+		getUserByUserName(userName:String):User
+		emailExists(email:String):Boolean		
+		Schools:[school]
+		SchoolById(idamGroupId:String,name:String):SchoolInfo
+		Products(productId:String):product
+		Courses(title:String):course
+    }
+
+
+type User 
+	{
+		id:String
+		fullName:String
+		roles:[String]
+		avatar:String
+		email:String
+		userName:String
+		preferredName:String
+		year:String
+		class:[String]
+		tandC: TandC
+		passwd:String
+		passwdValidation:String
+		products:[product]
+        course:[course]
+        school:[school]
+        company :[company]
+        status :statusenum
+	}
+enum statusenum {
+	    pending
+		active
+		deactivated 
+}
+type school
+{
+
+		schoolId: String
+		name: String
+		location: String
+		team: String
+		channelPartnerTeam: String
+		tags: [String]
+		totals: total
+		product: [product]
+	
+}
+type total
+{
+	students: String
+	products: String
+	workflows: String		
+}
+type product
+{
+	productId:String
+	type:[String]    
+	details:detail
+
+}
+type detail{          
+	title:String 
+	edition:String  
+	description:String
+	cover:String  
+}  
+type course
+{
+title:String 
+}
+
+type company
+{
+title:String 
+}
+
+
+input schoolinput
+{
+
+		schoolId: String
+		name: String
+		location: String
+		team: String
+		channelPartnerTeam: String
+		tags: [String]
+		totals: totalinput
+		product: [productinput]
+	
+}
+input totalinput
+{
+	students: String
+	products: String
+	workflows: String		
+}
+input productinput
+{
+	productId:String 
+	type:[String]    
+	details:detailinput
+
+}
+input detailinput
+{          
+	title:String,      
+	edition:String   
+	description:String
+	cover:String  
+}  
+input courseinput
+{
+title:String 
+}
+
+input companyinput
+{
+title:String 
+}
+
+
+type BulkUserResponse 
+	{
+		id:String
+		fullName:String
+		avatar:String
+		email:String
+		userName:String
+		preferredName:String
+		year:String
+		roles:[String]
+		tandc:TandC
+		passwd:String
+		passwdValidation:String
+		products:[product]
+        course:[course]
+        school:[school]
+        company :[company]
+        status :statusenum
+        errorText:String
+        userAdded:String
+	}
+	
+input UserInput 
+	{
+		id:String
+		fullName:String
+		avatar:String
+		email:String
+		userName:String
+		preferredName:String
+		year:String
+		roles:[String]
+		tandc:TandCinput
+		passwd:String
+		passwdValidation:String
+		products:[productinput]
+        course:[courseinput]
+        school:[schoolinput]
+        company :[companyinput]
+        status :statusenum
+      
+	}
+
+type TandC
+	{
+		date:String
+		version:String
+	}
+
+
+input TandCinput
+	{
+		date:String
+		version:String
+	}
+type Grade
+	{
+		name:String
+		section:String
+	}
+
+input AuthData {
+      userName:String!
+      password: String!
+    }
+    
+type SigninPayload {
+  token: String
+  user: User
+}
+
+input MypediaSchoolSetupInput	
+{
+schoolData:MypediaSchoolInfoInput
+userData:[userInfoInput]
+}
+input userInfoInput{
+			role:String
+			name:String
+			mobile: String
+			landline: String
+			emailId: String
+}
+input MypediaSchoolInfoInput
+	{
+		id: String
+		name: String
+		address: String
+		city: String
+		state: String
+		country:String
+		pin: String
+		emailId: String
+		phone: String
+		
+	}
+
+type schoolData
+{
+message:String
+schoolInfo:SchoolInfo
+userInfo:[UserInfo]
+}
+type SchoolInfo	
+{
+		id: String
+		name: String
+		address: String
+		city: String
+		state: String
+		country:String
+		pin: String
+		emailId: String
+		phone: String
+		message:String
+}
+type UserInfo{
+			id: String
+			userName:String
+			mobile: String
+			password:String
+			landline: String
+			emailId: String
+}
+
+type Mutation
+	{
+	   signupUser(data:UserInput): User 
+	   userUpload(data:[UserInput]): [BulkUserResponse] 
+	   updateUser(data:UserInput): User
+	   forgotPassword(data:UserInput): User	   
+	   authenticate(auth: AuthData):SigninPayload
+	   schoolSetup(data:MypediaSchoolSetupInput):schoolData
+	   logout(userName: String):String
+	}

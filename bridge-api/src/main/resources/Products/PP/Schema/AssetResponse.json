@@ -1,0 +1,4062 @@
+{
+  "assetResponse": [
+    {
+      "id": "0236da37-61e4-4481-9f4c-b9448e276e23",
+      "context": {
+        "id": "5bfe762d50a588df2af8cca2",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/cf5fb072-1c33-432f-bead-5093abf4a2fe/1/file/PH11_Ch04_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "64",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "64",
+      "section": "Chapter 4 Practical electric circuits",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 4: Test answers"
+    },
+    {
+      "id": "0b17fcc5-b23d-414f-aa31-9b1211e51047",
+      "context": {
+        "id": "5bfe760fd1a1536e240a46ee",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/349d3a96-16c3-4d6b-9510-7e229ca4ae5d/1/file/PH11_Ch01_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "39",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "39",
+      "section": "Chapter 1 Heating processes",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 1: Test"
+    },
+    {
+      "id": "0ba29c1b-d9e1-4d33-959d-f452bf6bb257",
+      "context": {
+        "id": "5bfe75c950a588df2af8cc71",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/545a3def-5444-44c2-a38c-a10a698d2ac1/1/file/Hein_Phys_11_ch12_ans.pdf",
+      "sectionOrder": "15",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "15",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 12 Energy, work and power"
+    },
+    {
+      "id": "11058633-a08e-48f5-8c78-57e6e16800e6",
+      "context": {
+        "id": "5bfe763ed1a1536e240a4705",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/460c0cee-6d10-4ae9-b8b7-7c56ca1ed1a4/1/file/PH11_Ch18_M04_01_Prac_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "121",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "121",
+      "section": "Chapter 18 Sport",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 18.4.1: Projectile motion by video analysis"
+    },
+    {
+      "id": "114ee5aa-ca26-41fd-a7ce-e5b2b1a689e6",
+      "context": {
+        "id": "5bfe763150a588df2af8cca4",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/79389c36-284f-4d7c-a152-2230979ee2a3/1/file/PH11_Ch10_M04_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "96",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "96",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 10.4.1: Teacher notes"
+    },
+    {
+      "id": "14c93f21-3979-4d86-9959-f44771219530",
+      "context": {
+        "id": "5bfe75ded1a1536e240a46d6",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/b6c77b17-bcef-4b4e-a966-10992f8e6535/1/file/PH11_Ch01_SN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "38",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "38",
+      "section": "Chapter 1 Heating processes",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Safety notes"
+    },
+    {
+      "id": "14de4fc9-5dd3-4fe7-9a03-8ec254661184",
+      "context": {
+        "id": "5bfe760050a588df2af8cc8c",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/9b7088ee-b2dc-43f5-ae01-29e2aab2bb46/1/file/PH11_Ch12_SN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "107",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "107",
+      "section": "Chapter 12 Energy, work and power",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Safety notes"
+    },
+    {
+      "id": "1822220d-f476-4174-a2da-cc5f801c3d7b",
+      "context": {
+        "id": "5bfe75f250a588df2af8cc85",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/cef37576-8ae7-4a91-b628-23ed3d0f441f/1/file/PH11_Ch03_M04_01_PRAC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "50",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "50",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.4.1: Series circuits"
+    },
+    {
+      "id": "191cf5e6-36f8-4518-b9b0-cb0fe9164b83",
+      "context": {
+        "id": "5bfe75dcd1a1536e240a46d5",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/009b2272-c054-4409-a87b-9c3a690e0a8b/1/file/Hein_Phys_11_ch11_ans.pdf",
+      "sectionOrder": "14",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "14",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 11 Equilibrium of forces"
+    },
+    {
+      "id": "1ae1c07b-cc16-47c5-9b02-07a8d75150b7",
+      "context": {
+        "id": "5bfe762550a588df2af8cc9e",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/1fa03652-3b85-4c84-8b6f-caf498503286/1/file/PH11_Ch04_M01_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "61",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "61",
+      "section": "Chapter 4 Practical electric circuits",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 4.1.1: Resistance and temperature"
+    },
+    {
+      "id": "1c79d017-12ff-42ed-a21d-3649b64df2c7",
+      "context": {
+        "id": "5bfe75e350a588df2af8cc7e",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/6d343544-bad3-4c0d-ac1f-dbbf11015a9b/1/file/PH11_Ch03_M04_02_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "53",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "53",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 3.4.2: Teacher notes"
+    },
+    {
+      "id": "1cd19082-3bba-4021-a337-a6392f1324a8",
+      "context": {
+        "id": "5bfe75ffd1a1536e240a46e6",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/4fbe7118-e12b-416a-8ef2-76b84c90949b/1/file/PH11_Ch06_M03_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "70",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "70",
+      "section": "Chapter 6 Particles in the nucleus",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Demonstration 6.3.1: The diffusion cloud chamber"
+    },
+    {
+      "id": "1fef43ef-39c0-42db-977c-4007a24a7e9c",
+      "context": {
+        "id": "5bfe75d8d1a1536e240a46d3",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/4decaecc-f87b-4296-80e9-ae341ed84f21/1/file/Hein_Phys_11_ch07_ans.pdf",
+      "sectionOrder": "9",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "9",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 7 Energy from the atom"
+    },
+    {
+      "id": "203df55f-345e-43da-89e9-379abde12b87",
+      "context": {
+        "id": "5bfe75eb50a588df2af8cc82",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/d7af3222-5906-454a-b5c0-11a3b955db18/1/file/PH11_Ch06_M02_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "68",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "68",
+      "section": "Chapter 6 Particles in the nucleus",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 6.2.1: Teacher notes"
+    },
+    {
+      "id": "20c7f8cc-1f41-4b8c-bb26-4aace23df743",
+      "context": {
+        "id": "5bfe75e7d1a1536e240a46db",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/fce7e0b5-32c1-4600-8790-4c76e2f3d621/1/file/PH11_Ch04_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "63",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "63",
+      "section": "Chapter 4 Practical electric circuits",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 4: Test"
+    },
+    {
+      "id": "237a18e4-b4f9-4216-a910-4a3dfb7245cb",
+      "context": {
+        "id": "5bfe75f9d1a1536e240a46e3",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/91ffa49b-008b-4aa2-8c95-5408c75427a3/1/file/PH11_Ch09_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "87",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "87",
+      "section": "Chapter 9 Linear motion",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 9: Test"
+    },
+    {
+      "id": "238f83da-8ae5-49da-98d5-00a01f4d7a16",
+      "context": {
+        "id": "5bfe761a50a588df2af8cc99",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/b6cf9906-d069-4f91-9b47-ecc62b2991d6/1/file/PH11_Unit01_VIC.pdf",
+      "sectionOrder": "31",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "31",
+      "section": "Unit 1: What ideas explain the physical world?",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Curriculum grid"
+    },
+    {
+      "id": "24d14bd9-c6fa-4616-935f-0180087c9ce2",
+      "context": {
+        "id": "5bfe7621d1a1536e240a46f7",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/61547cb8-3038-4d6a-bf3d-7bb2bba5b327/1/file/PH11_Ch03_M04_01_TN.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "51",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "51",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.4.1: Teacher notes"
+    },
+    {
+      "id": "29a50060-e47b-40c6-9741-d4372497c587",
+      "context": {
+        "id": "5bfe75d750a588df2af8cc78",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/33b5b56d-324b-4990-ae60-64da4d6106f4/1/file/Hein_Phys_11_ch03_ans.pdf",
+      "sectionOrder": "4",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "4",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 3 Electrical physics"
+    },
+    {
+      "id": "2ac392de-5355-4631-952f-54aa346d6f6c",
+      "context": {
+        "id": "5bfe763cd1a1536e240a4704",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/3ef1d130-4f86-4058-aa35-e31bab4261ec/1/file/PH11_Ch16_M01_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "116",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "116",
+      "section": "Chapter 16 Nuclear medicine",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 16.1.1: Data analysis - Decay of thorium-234"
+    },
+    {
+      "id": "2aed81bd-faeb-43be-b1a8-9d09bc97e06f",
+      "context": {
+        "id": "5bfe75d550a588df2af8cc77",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/e0003dd0-1558-44a5-ba72-36d595db359d/1/file/Hein_Phys_11_ch06_ans.pdf",
+      "sectionOrder": "8",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "8",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 6 Particles in the nucleus"
+    },
+    {
+      "id": "2ceb702b-83fa-457d-9d33-2409de3e65a4",
+      "context": {
+        "id": "5bfe75cb50a588df2af8cc72",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/10830545-f3f2-4206-b17d-f702d174d35d/1/file/Hein_Phys_11_ch18_ans.pdf",
+      "sectionOrder": "22",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "22",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 18 Sport"
+    },
+    {
+      "id": "2e6de49c-f457-4a9f-a58c-5a011c0e3dc5",
+      "context": {
+        "id": "5bfe75c8d1a1536e240a46cb",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/d4e214e6-3bda-442a-b346-1a4252c3b881/1/file/Hein_Phys_11_ch09_ans.pdf",
+      "sectionOrder": "12",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "12",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 9 Linear motion"
+    },
+    {
+      "id": "2f166599-7e28-4fbc-8ba6-c92c770f385d",
+      "context": {
+        "id": "5bfe75d350a588df2af8cc76",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/9b806d0b-1655-483d-8d8e-82fc04109908/1/file/Hein_Phys_11_U1_AOS1_ans.pdf",
+      "sectionOrder": "3",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "3",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Unit 1 Area of Study 1 Review"
+    },
+    {
+      "id": "348f5c83-9530-488b-ab65-2069467b5c9b",
+      "context": {
+        "id": "5bfe761050a588df2af8cc94",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/8d8e17bc-3c37-40f9-ac88-09a20977c38f/1/file/PH11_Ch10_SN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "98",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "98",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Safety notes"
+    },
+    {
+      "id": "349e77d8-8f45-47a4-b003-55b9a00135fb",
+      "context": {
+        "id": "5bfe75e2d1a1536e240a46d8",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/df896b74-0733-4e83-809c-d8d48b61c35c/1/file/PH11_Ch04_M01_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "62",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "62",
+      "section": "Chapter 4 Practical electric circuits",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 4.1.1: Teacher notes"
+    },
+    {
+      "id": "360af629-674d-4c06-8f98-0e090ead006f",
+      "context": {
+        "id": "5bfe75db50a588df2af8cc7a",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/f176912f-9ce1-43ed-82b8-e0d91eacb741/1/file/PH11_PE02_VIC.pdf",
+      "topic": {
+        "name": "Practice exams"
+      },
+      "sectionOrder": "28",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "28",
+      "section": "Whole book resources",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Practice Exam 2 (Unit 1 & 2)"
+    },
+    {
+      "id": "38b1c3dd-3a34-496e-80e3-4bf6bce97fa2",
+      "context": {
+        "id": "5bfe75f650a588df2af8cc87",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/a071bc28-88fa-4985-b59b-786750c50f1e/1/file/PH11_Ch07_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "77",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "77",
+      "section": "Chapter 7 Energy from the atom",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 7: Test answers"
+    },
+    {
+      "id": "38f49da2-490e-4ede-89fc-d35b454770f6",
+      "context": {
+        "id": "5bfe75f5d1a1536e240a46e1",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/33746602-429c-48af-9785-c634cfcead69/1/file/PH11_Ch10_M03_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "93",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "93",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 10.3.1: Action and reaction"
+    },
+    {
+      "id": "3909973d-2188-476a-b860-34cbe4ef6213",
+      "context": {
+        "id": "5bfe75f3d1a1536e240a46e0",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/9e80d13b-140c-4d7e-98df-6613bd0b3c87/1/file/PH11_Ch09_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "88",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "88",
+      "section": "Chapter 9 Linear motion",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 9: Test answers"
+    },
+    {
+      "id": "39f9d802-33b2-4139-9e4f-14089cef9430",
+      "context": {
+        "id": "5bfe7624d1a1536e240a46f8",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/55a43f1b-f1da-4c01-984b-768619c27a32/1/file/PH11_Ch16_M03_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "118",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "118",
+      "section": "Chapter 16 Nuclear medicine",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 16.3.1: Medical radiation"
+    },
+    {
+      "id": "3d43d39e-a97f-43a7-85cf-63404e92c40f",
+      "context": {
+        "id": "5bfe75f850a588df2af8cc88",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/6dfd57d1-d493-411a-b3f5-c25a9f1bbc28/1/file/PH11_Ch03_M04_03_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "55",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "55",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.4.3: Teacher notes"
+    },
+    {
+      "id": "4078ec07-f54b-48db-b46b-a07b2ac68530",
+      "context": {
+        "id": "5bfe763ad1a1536e240a4703",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/f7c1e985-af2b-4e41-a604-807c9fa871c9/1/file/PH11_Ch13_M02_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "111",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "111",
+      "section": "Chapter 13 Stars",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 13.2.1: Teacher notes"
+    },
+    {
+      "id": "47fde14e-0dc4-4fc6-b454-c71b8a2f8612",
+      "context": {
+        "id": "5bfe760c50a588df2af8cc92",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/7915545a-7126-45ca-bb73-f36fa984beae/1/file/PH11_Ch10_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "100",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "100",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 10: Test answers"
+    },
+    {
+      "id": "4d2f248e-3938-453a-b53f-087cb542dcee",
+      "context": {
+        "id": "5bfe7615d1a1536e240a46f1",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/7ea11fd1-7e14-41ea-8ae4-7c1281b1aa57/1/file/PH11_Ch12_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "108",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "108",
+      "section": "Chapter 12 Energy, work and power",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 12: Test"
+    },
+    {
+      "id": "4f729552-1437-47bb-a9ec-3c472c119beb",
+      "context": {
+        "id": "5bfe761450a588df2af8cc96",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/89a170be-96f6-4ba6-8f11-30a4f70266b0/1/file/PH11_Ch12_M02_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "103",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "103",
+      "section": "Chapter 12 Energy, work and power",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 12.2.1: Hooke's law"
+    },
+    {
+      "id": "513f4a4e-45cf-4278-afde-2af397c5aca9",
+      "context": {
+        "id": "5bfe761dd1a1536e240a46f5",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/fb32bf86-d30c-428d-b0a1-64e757467d3e/1/file/PH11_Ch02_M04_01_PRAC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "41",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "41",
+      "section": "Chapter 2 Applying thermodynamic principles",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 2.4.1: Research topics"
+    },
+    {
+      "id": "51b1b0b8-b9e2-407c-91f6-a154e4725328",
+      "context": {
+        "id": "5bfe75c750a588df2af8cc70",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/228271f7-ccd3-41a9-8088-1d18a079e7c0/1/file/Hein_Phys_11_U1_AOS3_ans.pdf",
+      "sectionOrder": "10",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "10",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Unit 1 Area of Study 3 Review"
+    },
+    {
+      "id": "542d089b-6d3e-42e8-9dde-f1a3bfc6113e",
+      "context": {
+        "id": "5bfe75e0d1a1536e240a46d7",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/2eb766be-b0af-48ab-891c-5f7da2caaa1f/1/file/PH11_Ch03_M04_04_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "57",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "57",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.4.4: Teacher notes"
+    },
+    {
+      "id": "54482fc7-b915-49f2-b226-33ae337ea5a3",
+      "context": {
+        "id": "5bfe75fc50a588df2af8cc8a",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/ec41fe93-a509-4e0e-8ab7-b5dc73d9965c/1/file/PH11_Ch10_M06_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "97",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "97",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 10.6.1: Research topics"
+    },
+    {
+      "id": "57752d9e-50b3-4ffc-ab28-7d12e5421dee",
+      "context": {
+        "id": "5bfe75e6d1a1536e240a46da",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/092f2c4a-7b5b-496c-900d-a4348c22eabf/1/file/PH11_Unit01_TC_VIC.pdf",
+      "sectionOrder": "30",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "30",
+      "section": "Whole book resources",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Technician's checklist and recipes"
+    },
+    {
+      "id": "57cca092-db94-4b7a-a711-f14da99577ff",
+      "context": {
+        "id": "5bfe75c350a588df2af8cc6e",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/8af421a9-1058-4479-a4aa-aa2c4f7aeb13/1/file/Hein_Phys_11_ch1_ans.pdf",
+      "sectionOrder": "1",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "1",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 1 Heating processes"
+    },
+    {
+      "id": "5852bfb6-1906-4cd2-a16c-904ca67cac31",
+      "context": {
+        "id": "5bfe75cad1a1536e240a46cc",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/0ca9ad4e-505f-4c64-a736-3765af0d6189/1/file/Hein_Phys_11_ch13_ans.pdf",
+      "sectionOrder": "17",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "17",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 13 Stars"
+    },
+    {
+      "id": "5a0f2683-453a-4713-99ae-ec087ff0fe77",
+      "context": {
+        "id": "5bfe763950a588df2af8cca8",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/74185cda-1e32-469a-8914-85be5c0128cc/1/file/PH11_Ch12_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "109",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "109",
+      "section": "Chapter 12 Energy, work and power",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 12: Test answers"
+    },
+    {
+      "id": "624edf83-26c0-4172-b9f1-e52afaf25d3b",
+      "context": {
+        "id": "5bfe7609d1a1536e240a46eb",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/70685f04-f588-48a1-aec4-87cec3caa332/1/file/Hein_Phys_11_ch08_ans.pdf",
+      "sectionOrder": "11",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "11",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 8 Scalars and vectors"
+    },
+    {
+      "id": "63e0bdf7-a694-4ca9-b8fc-58dcba95137d",
+      "context": {
+        "id": "5bfe763d50a588df2af8ccaa",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/6ebccf37-7866-429b-8c9a-39a6d245b6eb/1/file/PH11_Ch16_M03_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "119",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "119",
+      "section": "Chapter 16 Nuclear medicine",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 16.3.1: Teacher notes"
+    },
+    {
+      "id": "6656a1da-9ba4-4155-a868-7ca8a313d68d",
+      "context": {
+        "id": "5bfe75ecd1a1536e240a46dd",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/1ef202ca-67d1-412b-aee0-7bb98b8a131f/1/file/PH11_Ch01_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "40",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "40",
+      "section": "Chapter 1 Heating processes",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 1: Test answers"
+    },
+    {
+      "id": "6897f3cc-e5b7-4cdc-918a-bfb18ec5e1d8",
+      "context": {
+        "id": "5bfe760850a588df2af8cc90",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/ab50b580-39cc-4daa-8f0d-ca8cc52e5c3b/1/file/PH11_Ch10_M02_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "90",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "90",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 10.2.1: Teacher notes"
+    },
+    {
+      "id": "69715839-3823-439d-b0be-9261aa811217",
+      "context": {
+        "id": "5bfe75cf50a588df2af8cc74",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/b9531d67-844c-45fc-a1ee-cb23e6b3c495/1/file/PH11_Ch01_M06_02_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "37",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "37",
+      "section": "Chapter 1 Heating processes",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 1.6.2: Insulation investigation"
+    },
+    {
+      "id": "738a0e28-66e0-4898-98f4-b838064bd6cf",
+      "context": {
+        "id": "5bfe7632d1a1536e240a46ff",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/c677db32-809b-4d7e-a299-62bda5bd51b4/1/file/PH11_Ch08_SN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "84",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "84",
+      "section": "Chapter 8 Scalars and vectors",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Safety notes"
+    },
+    {
+      "id": "77c58cc6-5f14-458b-928b-ba1863eba109",
+      "context": {
+        "id": "5bfe760a50a588df2af8cc91",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/acf5f0ee-efa3-405d-8254-93e95aa7bd4a/1/file/PH11_Ch10_M04_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "95",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "95",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 10.4.1: Conservation of momentum in explosions"
+    },
+    {
+      "id": "77cc3cbd-b79f-4ef2-9f11-ae701b0acb38",
+      "context": {
+        "id": "5bfe7628d1a1536e240a46fa",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/d16d0212-fed4-4d5e-aa16-8ee67066f14c/1/file/PH11_Ch07_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "76",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "76",
+      "section": "Chapter 7 Energy from the atom",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 7: Test"
+    },
+    {
+      "id": "78154c07-5de0-4775-9937-583fe7fba4c0",
+      "context": {
+        "id": "5bfe763750a588df2af8cca7",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/5df6249a-9d22-4433-8964-f3c44d54f903/1/file/PH11_Ch10_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "99",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "99",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 10: Test"
+    },
+    {
+      "id": "78c16753-825e-4b56-82fb-b1f382e58420",
+      "context": {
+        "id": "5bfe7613d1a1536e240a46f0",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/807518a3-a436-4fd2-975c-aab45de104f7/1/file/PH11_Ch03_M04_03_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "54",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "54",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.4.3: Resistance in a combination circuit"
+    },
+    {
+      "id": "7b1eeed2-2d91-4b56-b98c-781c9860d56b",
+      "context": {
+        "id": "5bfe75f450a588df2af8cc86",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/7640c891-572f-4e5b-b945-176e284f407a/1/file/Hein_Phys_11_ch19_ans.pdf",
+      "sectionOrder": "24",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "24",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 19 Practical investigation"
+    },
+    {
+      "id": "7c550d47-2d90-450c-92bf-9108070c6820",
+      "context": {
+        "id": "5bfe761c50a588df2af8cc9a",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/70899d9d-5076-4016-b362-d003dc9d6003/1/file/PH11_Ch13_M02_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "110",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "110",
+      "section": "Chapter 13 Stars",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 13.2.1: Stellar bar codes"
+    },
+    {
+      "id": "7e41d791-ebbe-461b-bbed-6a6e9095038b",
+      "context": {
+        "id": "5bfe75d950a588df2af8cc79",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/609289a3-0c24-4b7e-96dd-93602c5f7e4e/1/file/Hein_Phys_11_ch14_ans.pdf",
+      "sectionOrder": "18",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "18",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 14 Forces and the human body"
+    },
+    {
+      "id": "7f3e1b6f-081b-4944-8220-5e308acfb2ef",
+      "context": {
+        "id": "5bfe7607d1a1536e240a46ea",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/c9be2ee0-2f19-4b84-9774-ca7f92827a27/1/file/PH11_Ch08_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "85",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "85",
+      "section": "Chapter 8 Scalars and vectors",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 8: Test"
+    },
+    {
+      "id": "823c6229-4a42-4514-9ca8-489843ac1982",
+      "context": {
+        "id": "5bfe760250a588df2af8cc8d",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/728057e7-43a7-4d56-98a4-cb512ca8719a/1/file/PH11_Ch07_M01_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "75",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "75",
+      "section": "Chapter 7 Energy from the atom",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 7.1.1: Teacher notes"
+    },
+    {
+      "id": "827ab0dd-d43f-44c1-8b5a-6e0b3047d53b",
+      "context": {
+        "id": "5bfe75f050a588df2af8cc84",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/4935f221-e164-437c-b0cc-a6e3d5e0a90e/1/file/PH11_Ch03_M01_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "45",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "45",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.1.1: Teacher notes"
+    },
+    {
+      "id": "84e7048c-c2c3-4ca0-8eb7-085de41d198f",
+      "context": {
+        "id": "5bfe7611d1a1536e240a46ef",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/0cd7bddb-8ada-4fc2-a7dc-c85b4c87bb69/1/file/PH11_Ch03_M01_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "44",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "44",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.1.1: Connecting circuits"
+    },
+    {
+      "id": "854229c1-9319-4412-89de-717c830ed905",
+      "context": {
+        "id": "5bfe75fdd1a1536e240a46e5",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/38072c45-da3e-4aa9-8929-43f920bb22e2/1/file/PH11_Ch05_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "65",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "65",
+      "section": "Chapter 5 The origins of everything",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 5: Test"
+    },
+    {
+      "id": "85930315-44ae-4e45-b684-89af64dfa40a",
+      "context": {
+        "id": "5bfe75d0d1a1536e240a46cf",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/23ad4a08-c988-416e-b13b-3b6270a9d86a/1/file/PH11_Ch02_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "42",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "42",
+      "section": "Chapter 2 Applying thermodynamic principles",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 2: Test"
+    },
+    {
+      "id": "864fee4d-0618-417a-a5e1-3b3d5122202a",
+      "context": {
+        "id": "5bfe762750a588df2af8cc9f",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/14ddbd85-ac59-462a-9ae8-b4807f3fe41d/1/file/PH11_Ch06_M03_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "71",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "71",
+      "section": "Chapter 6 Particles in the nucleus",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Demonstration 6.3.1: Teacher notes"
+    },
+    {
+      "id": "87036761-823f-49fe-bb2b-15a0741cd8f5",
+      "context": {
+        "id": "5bfe75c6d1a1536e240a46ca",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/9645ce10-f46f-45c6-8e32-8b7a1b5d2547/1/file/Hein_Phys_11_ch05_ans.pdf",
+      "sectionOrder": "7",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "7",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 5 The origins of everything"
+    },
+    {
+      "id": "89ee273a-a731-491d-8bd2-7bc9910ca86a",
+      "context": {
+        "id": "5bfe7626d1a1536e240a46f9",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/09633a3b-b1f5-4124-91bd-a76f8896134c/1/file/PH11_Ch05_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "66",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "66",
+      "section": "Chapter 5 The origins of everything",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 5: Test answers"
+    },
+    {
+      "id": "8a310010-8dc1-4571-9691-786d2735ce5e",
+      "context": {
+        "id": "5bfe75f1d1a1536e240a46df",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/53f57d3c-f5fe-4f1c-850d-459614b6587c/1/file/PH11_Ch08_M05_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "83",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "83",
+      "section": "Chapter 8 Scalars and vectors",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 8.5.1: Teacher notes"
+    },
+    {
+      "id": "8d1a763e-dbb6-488c-97f2-12baec5fe7e6",
+      "context": {
+        "id": "5bfe762950a588df2af8cca0",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/7a5fd7d2-fc5b-4268-b6f7-b75f1c941c56/1/file/PH11_Ch08_M04_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "81",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "81",
+      "section": "Chapter 8 Scalars and vectors",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 8.4.1: Teacher notes"
+    },
+    {
+      "id": "8d69117f-15c3-49a7-b435-6ae4f7c37f65",
+      "context": {
+        "id": "5bfe75e850a588df2af8cc80",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/a11e3e8c-8ac3-4fe6-bdae-85139ddbac9f/1/file/Hein_Phys_11_ch15_ans.pdf",
+      "sectionOrder": "19",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "19",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 15 Energy from nuclear power"
+    },
+    {
+      "id": "8e123aad-a286-4779-90bf-8e057e55ba7a",
+      "context": {
+        "id": "5bfe7619d1a1536e240a46f3",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/0dac6753-4e88-44de-b2c4-18d18f39ba27/1/file/PH11_PE01_VIC.pdf",
+      "topic": {
+        "name": "Practice exams"
+      },
+      "sectionOrder": "26",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "26",
+      "section": "Whole book resources",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Practice Exam 1 (Unit 1 & 2)"
+    },
+    {
+      "id": "91999f92-70a5-4aca-89e5-fd9faf675d3d",
+      "context": {
+        "id": "5bfe75e550a588df2af8cc7f",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/ff0b4529-aa83-4164-bf40-0d3ea78cc3c5/1/file/PH11_Ch06_M02_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "67",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "67",
+      "section": "Chapter 6 Particles in the nucleus",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 6.2.1: An analogue experiment of radioactive decay"
+    },
+    {
+      "id": "9659d523-dc5f-4ae5-b425-a91d761fa81c",
+      "context": {
+        "id": "5bfe761bd1a1536e240a46f4",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/d1408abd-e0f7-42e0-83b3-282609b39b66/1/file/PH11_Ch01_M06_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "36",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "36",
+      "section": "Chapter 1 Heating processes",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 1.6.1: Teacher notes"
+    },
+    {
+      "id": "96659489-4b77-4c35-a72c-62fd6e36d4e7",
+      "context": {
+        "id": "5bfe762ad1a1536e240a46fb",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/980eba1f-d5e5-4bdb-b84f-d66c3817c99f/1/file/PH11_Ch08_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "86",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "86",
+      "section": "Chapter 8 Scalars and vectors",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 8: Test answers"
+    },
+    {
+      "id": "990a5189-2237-4889-9343-b24833ee7856",
+      "context": {
+        "id": "5bfe75d150a588df2af8cc75",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/b7001d56-f5d7-4a83-837c-a7ae9999e011/1/file/PH11_FD_VIC.pdf",
+      "sectionOrder": "25",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "25",
+      "section": "Whole book resources",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Physics formulae and data booklet"
+    },
+    {
+      "id": "9b545760-8c3b-4b14-ac30-41f957e8aa1a",
+      "context": {
+        "id": "5bfe7603d1a1536e240a46e8",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/a8fcb700-1d40-46ef-a368-6671d6d3affd/1/file/PH11_Ch16_M01_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "117",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "117",
+      "section": "Chapter 16 Nuclear medicine",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 16.1.1: Teacher notes"
+    },
+    {
+      "id": "9b9951a0-c649-47ce-a5e1-c24860b48c14",
+      "context": {
+        "id": "5bfe762ed1a1536e240a46fd",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/8ce97cc8-3552-46ea-a4e2-f308d2873704/1/file/PH11_Ch06_M02_02_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "69",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "69",
+      "section": "Chapter 6 Particles in the nucleus",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 6.2.2: Research topics"
+    },
+    {
+      "id": "9c218247-14ed-440a-9c54-80df67b1135c",
+      "context": {
+        "id": "5bfe763b50a588df2af8cca9",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/5d3bc6e0-d904-4e21-abff-153e519c79e8/1/file/PH11_Ch15_M01_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "114",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "114",
+      "section": "Chapter 15 Energy from nuclear power",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 15.1.1: Data analysis - Critical mass"
+    },
+    {
+      "id": "a13f1860-15e7-44e1-9227-ac77c1a393af",
+      "context": {
+        "id": "5bfe75df50a588df2af8cc7c",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/fc247302-9869-4b33-8db2-3122ba9dbf58/1/file/PH11_Ch02_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "43",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "43",
+      "section": "Chapter 2 Applying thermodynamic principles",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 2: Test answers"
+    },
+    {
+      "id": "a7e805ee-0f85-45c3-b023-53d40b7d94ce",
+      "context": {
+        "id": "5bfe75c550a588df2af8cc6f",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/18e97372-fccf-4058-87df-2448a234ba8a/1/file/Hein_Phys_11_ch04_ans.pdf",
+      "sectionOrder": "5",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "5",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 4 Practical electrical circuits"
+    },
+    {
+      "id": "a94e157e-af5a-469e-9eea-b323a3b836d2",
+      "context": {
+        "id": "5bfe762350a588df2af8cc9d",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/d40a3fa1-640d-4ddb-98d6-138cd96f4b6c/1/file/PH11_Ch03_M04_04_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "56",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "56",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.4.4: Parallel circuits"
+    },
+    {
+      "id": "af8bc5fb-994e-4611-87c8-6cf917ce7702",
+      "context": {
+        "id": "5bfe760bd1a1536e240a46ec",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/8d968348-aa87-4382-a312-6fe4e1f9e817/1/file/PH11_PEA02_VIC.pdf",
+      "topic": {
+        "name": "Practice exams"
+      },
+      "sectionOrder": "29",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "29",
+      "section": "Whole book resources",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Practice Exam 2: Answers"
+    },
+    {
+      "id": "afd988d0-35b1-4d6d-a1d0-6500da02a8c9",
+      "context": {
+        "id": "5bfe761e50a588df2af8cc9b",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/9a92f570-c1cb-4ba3-aa69-8c52067da93e/1/file/PH11_Ch15_M02_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "115",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "115",
+      "section": "Chapter 15 Energy from nuclear power",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 15.2.1: Research topics"
+    },
+    {
+      "id": "b0abe3df-df86-4434-b2d9-12ffa569218e",
+      "context": {
+        "id": "5bfe7601d1a1536e240a46e7",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/d05e15f1-bda8-4e6c-bbc5-a4c0fe7ec2b9/1/file/PH11_Ch14_MO3_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "112",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "112",
+      "section": "Chapter 14 Forces in the human body",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 14.3.1: Stress and strain in two rubber bands"
+    },
+    {
+      "id": "b25ef2e5-88f6-4dd0-aecc-cae96b3a5091",
+      "context": {
+        "id": "5bfe75ccd1a1536e240a46cd",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/052918a1-8f1b-4544-af65-c5b7d6922c5a/1/file/PH11_PEA01_VIC.pdf",
+      "topic": {
+        "name": "Practice exams"
+      },
+      "sectionOrder": "27",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "27",
+      "section": "Whole book resources",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Practice Exam 1: Answers"
+    },
+    {
+      "id": "b385bdc8-a0b5-4afc-93be-e605f2e863ea",
+      "context": {
+        "id": "5bfe760dd1a1536e240a46ed",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/af80f4e2-60c8-4e21-bc6d-e3c922dd97c2/1/file/PH11_Ch01_M03_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "34",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "34",
+      "section": "Chapter 1 Heating processes",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 1.3.1: Teacher notes"
+    },
+    {
+      "id": "b567c21d-f07c-4264-aa4c-8eb9703f4201",
+      "context": {
+        "id": "5bfe75cd50a588df2af8cc73",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/f0ed08f0-391e-4579-a788-1ce5154eb63f/1/file/PH11_Unit01_TP_VIC.pdf",
+      "sectionOrder": "32",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "32",
+      "section": "Unit 1: What ideas explain the physical world?",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Teaching program"
+    },
+    {
+      "id": "b5b39e0b-f03a-4a2d-be5d-992470f85f88",
+      "context": {
+        "id": "5bfe75fbd1a1536e240a46e4",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/56972802-3ecb-4f06-b6c1-b27f2b4687b1/1/file/PH11_Ch03_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "60",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "60",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 3: Test answers"
+    },
+    {
+      "id": "b5d168a5-08b5-42a3-9766-d38d4b5f5f4b",
+      "context": {
+        "id": "5bfe763550a588df2af8cca6",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/1ba5f737-4144-4a4e-bf81-c8504a1bd321/1/file/PH11_Ch10_M03_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "94",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "94",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 10.3.1: Teacher notes"
+    },
+    {
+      "id": "b617317b-9c58-4810-8e95-c3d21ac7392f",
+      "context": {
+        "id": "5bfe75fa50a588df2af8cc89",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/66ac4713-ff89-47e3-8a14-1f7d99229da3/1/file/PH11_Ch10_M02_02_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "92",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "92",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 10.2.2: Teacher notes"
+    },
+    {
+      "id": "b6a9080f-99a2-490f-a496-4be7f565f383",
+      "context": {
+        "id": "5bfe75fe50a588df2af8cc8b",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/dd921e6f-ed8c-4a2d-8aed-9990871eb302/1/file/PH11_Ch11_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "102",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "102",
+      "section": "Chapter 11 Equilibrium of forces",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 11: Test answers"
+    },
+    {
+      "id": "c10b0a4f-879b-49da-9374-658032febc9b",
+      "context": {
+        "id": "5bfe760550a588df2af8cc8f",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/5aa42212-8be4-4079-9d91-36d6e0da69fd/1/file/PH11_Ch18_M04_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "122",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "122",
+      "section": "Chapter 18 Sport",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 18.4.1: Teacher notes"
+    },
+    {
+      "id": "c3d06af2-c9f4-4177-8dfc-14d59e6c3020",
+      "context": {
+        "id": "5bfe7630d1a1536e240a46fe",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/41ef21fb-3429-4ccf-9334-047b6bebe883/1/file/PH11_Unit02_TP_VIC.pdf",
+      "sectionOrder": "79",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "79",
+      "section": "Unit 2: What do experiments reveal about the physical world?",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Teaching program"
+    },
+    {
+      "id": "cbd843be-5410-46bf-b86e-ec46ca26666d",
+      "context": {
+        "id": "5bfe7606d1a1536e240a46e9",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/0d9996a5-a9de-4ae2-b261-9292932ec34c/1/file/Hein_Phys_11_U1_AOS2_ans.pdf",
+      "sectionOrder": "6",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "6",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Unit 1 Area of Study 2 Review"
+    },
+    {
+      "id": "cc00bc0b-81f7-403b-b9b8-532958bf0e57",
+      "context": {
+        "id": "5bfe761850a588df2af8cc98",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/c1ce2a83-e5b4-4202-9260-bb7cf0476bdc/1/file/Hein_Phys_11_ch17_ans.pdf",
+      "sectionOrder": "21",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "21",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 17 Particle accelerators"
+    },
+    {
+      "id": "cc89632f-b24a-4e0a-8750-7e2f1d633ac3",
+      "context": {
+        "id": "5bfe762050a588df2af8cc9c",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/702829e6-7808-490b-880b-c00c95295c89/1/file/PH11_Ch17_M02_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "120",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "120",
+      "section": "Chapter 17 Particle accelerators",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 17.2.1: Media response - Crash collider destroys universe"
+    },
+    {
+      "id": "ccbba807-b93c-4944-9b37-211908c2de60",
+      "context": {
+        "id": "5bfe75d6d1a1536e240a46d2",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/4adce2ed-c842-4c90-b7a5-dbd98c7fd155/1/file/Hein_Phys_11_ch10_ans.pdf",
+      "sectionOrder": "13",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "13",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 10 Momentum and force"
+    },
+    {
+      "id": "cfb68f75-0f0b-4511-9b4d-b1aa18f3e6d2",
+      "context": {
+        "id": "5bfe760e50a588df2af8cc93",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/f9af46b8-cd06-4755-a1fd-a8a1ec71cf96/1/file/PH11_Ch12_M03_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "105",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "105",
+      "section": "Chapter 12 Energy, work and power",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 12.3.1: Conservation of energy"
+    },
+    {
+      "id": "d09f0086-7245-4205-896d-5805d524e29a",
+      "context": {
+        "id": "5bfe75efd1a1536e240a46de",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/ff6702b2-4c7f-45df-86f5-f7c2884f3da2/1/file/PH11_Unit02_VIC.pdf",
+      "sectionOrder": "78",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "78",
+      "section": "Unit 2: What do experiments reveal about the physical world?",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Curriculum grid"
+    },
+    {
+      "id": "d0ef3570-83db-41e0-b624-4a6acd145557",
+      "context": {
+        "id": "5bfe75dd50a588df2af8cc7b",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/b141df5f-84bc-4d42-bd94-debca34f5f91/1/file/PH11_Ch01_M03_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "33",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "33",
+      "section": "Chapter 1 Heating processes",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 1.3.1: Latent heat of fusion (melting)"
+    },
+    {
+      "id": "d158c1bf-0708-4ca7-a5f3-4693ac821c94",
+      "context": {
+        "id": "5bfe75c4d1a1536e240a46c9",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/f4a7391c-bd1d-4de0-8d9c-b1006c57af3a/1/file/Hein_Phys_11_ch2_ans.pdf",
+      "sectionOrder": "2",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "2",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 2 Applying thermodynamic principles"
+    },
+    {
+      "id": "d255bfe3-4b54-4645-af5c-eb17c03ed4c2",
+      "context": {
+        "id": "5bfe75ee50a588df2af8cc83",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/7dc7e69e-07e9-4093-af15-65d6d4ff0c2d/1/file/PH11_Ch06_Test_Ans_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "73",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "73",
+      "section": "Chapter 6 Particles in the nucleus",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 6: Test answers"
+    },
+    {
+      "id": "d415e93d-a888-4578-bac9-d8cd920eb0de",
+      "context": {
+        "id": "5bfe7636d1a1536e240a4701",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/d4273a0b-2d96-4a96-b94f-1bb35c9c24cf/1/file/PH11_Ch12_M03_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "106",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "106",
+      "section": "Chapter 12 Energy, work and power",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 12.3.1: Teacher notes"
+    },
+    {
+      "id": "d5ede422-13e9-4c24-ae97-97c1b6448316",
+      "context": {
+        "id": "5bfe7638d1a1536e240a4702",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/cd2f960c-3ff2-42ac-b553-7b495a9bb21c/1/file/PH11_Ch12_M02_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "104",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "104",
+      "section": "Chapter 12 Energy, work and power",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 12.2.1: Teacher notes"
+    },
+    {
+      "id": "d610d7ed-c3ab-485c-8a62-784b751f8a32",
+      "context": {
+        "id": "5bfe762f50a588df2af8cca3",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/a1f57852-53f0-4c2b-ae5f-5a0c611f61d9/1/file/PH11_Ch07_M01_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "74",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "74",
+      "section": "Chapter 7 Energy from the atom",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 7.1.1: Data analysis - Critical mass"
+    },
+    {
+      "id": "d7cc56b2-5b34-4d7d-8706-db3023e80767",
+      "context": {
+        "id": "5bfe7617d1a1536e240a46f2",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/2187c429-df7a-4612-a149-590f93af1f3c/1/file/PH11_Ch14_MO3_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "113",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "113",
+      "section": "Chapter 14 Forces in the human body",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 14.3.1: Teacher notes"
+    },
+    {
+      "id": "dc4d978a-6943-4181-aaab-87121f457ddb",
+      "context": {
+        "id": "5bfe75ced1a1536e240a46ce",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/e0fa3660-8e97-4936-9ffd-bfb75fa5045b/1/file/Hein_Phys_11_ch16_ans.pdf",
+      "sectionOrder": "20",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "20",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 16 Nuclear medicine"
+    },
+    {
+      "id": "df598e39-aa9c-4364-b9a4-c4f04ef89601",
+      "context": {
+        "id": "5bfe75d4d1a1536e240a46d1",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/282e6372-66d8-4141-808d-a0a21bc1a0c5/1/file/PH11_Ch03_M04_02_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "52",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "52",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Evaluation and Analysis 3.4.2: Data analysis - Unknown electrical devices"
+    },
+    {
+      "id": "df5e5d9f-689e-4a82-b762-77cdc4174c4f",
+      "context": {
+        "id": "5bfe761650a588df2af8cc97",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/0c8c69b6-58b8-41c0-921d-6789381dbe66/1/file/Hein_Phys_11_U2_AOS1_ans.pdf",
+      "sectionOrder": "16",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "16",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Unit 2 Area of Study 1 Review"
+    },
+    {
+      "id": "dfa2f0c0-a453-4b47-a4f9-c980d4833b66",
+      "context": {
+        "id": "5bfe75f7d1a1536e240a46e2",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/2a1ca6aa-3912-4c9c-9b44-aba40c8ecffe/1/file/PH11_Ch08_M05_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "82",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "82",
+      "section": "Chapter 8 Scalars and vectors",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 8.5.1: Acceleration down an incline"
+    },
+    {
+      "id": "e40fc33a-070d-4c5c-a75d-41fe5e9c1d6f",
+      "context": {
+        "id": "5bfe75ead1a1536e240a46dc",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/7cadad51-9c25-4995-bf3f-be97ca0263a9/1/file/PH11_Ch01_M06_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "35",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "35",
+      "section": "Chapter 1 Heating processes",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 1.6.1: Transfer of energy"
+    },
+    {
+      "id": "e5c3e1f6-d2b8-4237-98cd-5bb1aa6ce227",
+      "context": {
+        "id": "5bfe762c50a588df2af8cca1",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/52642972-d6e0-4930-85ed-452807287971/1/file/PH11_Ch03_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "59",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "59",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 3: Test"
+    },
+    {
+      "id": "e9a93ac5-c030-409a-8976-669f150b78d7",
+      "context": {
+        "id": "5bfe7634d1a1536e240a4700",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/1ce1baee-80a3-40fa-bbd5-4d3ed45d1e3f/1/file/PH11_Ch10_M02_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "89",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "89",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 10.2.1: Newton���s second law"
+    },
+    {
+      "id": "ebfed3e3-77e2-4806-a4a8-c569525bf4c1",
+      "context": {
+        "id": "5bfe761250a588df2af8cc95",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/cfb65eee-55c4-49b2-b71b-d0c75d4c0724/1/file/PH11_Ch03_M02_01_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "49",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "49",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.2.1: Teacher notes"
+    },
+    {
+      "id": "f0a182b8-e857-44b8-a957-950d3702ef96",
+      "context": {
+        "id": "5bfe75dad1a1536e240a46d4",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/d61bb627-9cd3-4e21-a5b8-1c704d1fa40a/1/file/Hein_Phys_11_U2_AOS2_ans.pdf",
+      "sectionOrder": "23",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "23",
+      "section": "Answers and worked solutions",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Unit 2 Area of Study 2 Review"
+    },
+    {
+      "id": "f201ad08-2c1e-4697-bd04-437c70e5ff48",
+      "context": {
+        "id": "5bfe75d2d1a1536e240a46d0",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/95758a63-9959-4c0d-87ad-d65ecea878d2/1/file/PH11_Ch03_M01_02_TN_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "47",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "47",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.1.2: Teacher notes"
+    },
+    {
+      "id": "f25d1986-721f-48f8-a5c1-61a47df359d5",
+      "context": {
+        "id": "5bfe763350a588df2af8cca5",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/4417efb7-2973-4657-bb8c-72003b7f7348/1/file/PH11_Ch11_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "101",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "101",
+      "section": "Chapter 11 Equilibrium of forces",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 11: Test"
+    },
+    {
+      "id": "f4f392af-f5ba-4b01-bec5-c2fb0efcec74",
+      "context": {
+        "id": "5bfe75e950a588df2af8cc81",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/3a86923a-3f98-4ef7-8d2f-5720dcdc48fa/1/file/PH11_Ch06_Test_VIC.docx",
+      "topic": {
+        "name": "Chapter test and answers"
+      },
+      "sectionOrder": "72",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "72",
+      "section": "Chapter 6 Particles in the nucleus",
+      "fileType": "docx",
+      "contentTypeValue": "misc. document",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Chapter 6: Test"
+    },
+    {
+      "id": "fb22464f-3fce-4fb5-994f-fcc9e35bd649",
+      "context": {
+        "id": "5bfe761fd1a1536e240a46f6",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/095782cc-0c96-4dbb-a667-089bbb2b237d/1/file/PH11_Ch03_M01_02_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "46",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "46",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.1.2: Using an ammeter"
+    },
+    {
+      "id": "fc8f1836-779f-452a-bd2e-40f8a565ad0c",
+      "context": {
+        "id": "5bfe75e150a588df2af8cc7d",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/41d04730-6416-409c-b4c2-ceb618ffdf2e/1/file/PH11_Ch03_M02_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "48",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "48",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 3.2.1: Using a voltmeter"
+    },
+    {
+      "id": "fe19d571-6277-4932-941e-7a1984d4aa40",
+      "context": {
+        "id": "5bfe762bd1a1536e240a46fc",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/0e30f5ae-ce11-4e32-8b52-af5bddefc547/1/file/PH11_Ch10_M02_02_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "91",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "91",
+      "section": "Chapter 10 Momentum and force",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 10.2.2: Newton���s second law II"
+    },
+    {
+      "id": "fea1b1b4-d141-4b06-a3eb-4ce9788cb2d8",
+      "context": {
+        "id": "5bfe75e4d1a1536e240a46d9",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/0b38ac57-8682-4bc1-b4fa-d2b41049381f/1/file/PH11_Ch03_SN.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "58",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "58",
+      "section": "Chapter 3 Electrical physics",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Safety notes"
+    },
+    {
+      "id": "fff8a43f-1108-4cdf-b61e-0c7e1c08e4f5",
+      "context": {
+        "id": "5bfe760450a588df2af8cc8e",
+        "cId": "5bfe6431fc1a4032007fad9c",
+        "cType": "cartridge",
+        "purpose": "provision",
+        "tenantId": "5aa90109255eaf39428d6e98"
+      },
+      "authType": "none",
+      "url": "https://eps.openclass.com/sandbox-pdos/api/item/0aa9cd99-b06e-4b8f-b14e-9d6409461edc/1/file/PH11_Ch08_M04_01_PRAC_VIC.pdf",
+      "topic": {
+        "name": "Experiment resources"
+      },
+      "sectionOrder": "80",
+      "countryCode": "AU",
+      "purposes": [
+        "practice"
+      ],
+      "isViewable": true,
+      "isDownloadable": true,
+      "limitByRoles": [
+        "teacher"
+      ],
+      "maxgrade": 100,
+      "maxattempt": 1,
+      "hidetoc": false,
+      "order": "80",
+      "section": "Chapter 8 Scalars and vectors",
+      "fileType": "pdf",
+      "contentTypeValue": "booklet",
+      "description": "{\"author\":\"\",\"audience\":\"someone\",\"free\\paid\": \"Paid\"}",
+      "name": "Experiment 8.4.1: Vector components and balanced forces"
+    }
+  ]
+}

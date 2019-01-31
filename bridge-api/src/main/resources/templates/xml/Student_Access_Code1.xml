@@ -1,0 +1,18 @@
+<Response>
+    <Result>
+        <Decision></Decision>
+        <Status>
+            <StatusCode Value=""/>
+        </Status>
+        <AssociatedAdvice>
+            <Advice AdviceId="" >
+                <AttributeAssignment  AttributeId="http://www.pearson.com/attributes/messagetype" DataType="http://www.w3.org/2001/XMLSchema#string"></AttributeAssignment>
+                <AttributeAssignment  AttributeId="http://www.pearson.com/attributes/messagesummary" DataType="http://www.w3.org/2001/XMLSchema#string"></AttributeAssignment>
+                <AttributeAssignment  AttributeId="http://www.pearson.com/attributes/messagetodisplay" DataType="http://www.w3.org/2001/XMLSchema#string"></AttributeAssignment>
+            </Advice>
+        </AssociatedAdvice>
+        <PolicyIdentifierList>
+            <PolicyIdReference></PolicyIdReference>
+        </PolicyIdentifierList>
+    </Result>
+</Response>
